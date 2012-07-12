@@ -1,1 +1,3 @@
-GNU GENERAL PUBLIC LICENSE
+This is an assistive talking device for people with communication disabilities. To compile this code you must use Arduino 1.0+ and also include the WaveHC library and CapSense library which can be downloaded from here:
+
+http://code.google.com/p/wavehc/ and http://www.arduino.cc/playground/Main/CapSense
